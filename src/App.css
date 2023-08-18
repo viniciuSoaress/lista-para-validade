@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+main{
+  /* background-color: aqua; */
+  width: 88vw;
+
+  display: flex;
+  flex-flow: row wrap;
+  gap: 4px;
+  padding: 4px;
+}

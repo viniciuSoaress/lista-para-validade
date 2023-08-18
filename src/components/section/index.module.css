@@ -1,0 +1,17 @@
+.section{
+  border: 1px solid #e2e2e4;
+  min-width: 45%;
+  border-radius: 10px;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding-left: 10px;
+  font-size: 12px;
+}
+
+.ss{
+  background-color: red;
+  padding: 2px;
+}
